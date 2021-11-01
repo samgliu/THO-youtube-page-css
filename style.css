@@ -211,7 +211,7 @@ body {
     margin: 30px;
 }
 .videoContainer iframe {
-    height: auto !important;
+    min-height: 400px;
     width: 100% !important;
 }
 
